@@ -20,17 +20,35 @@
         {
             "id": 1,
             "body": "Lifetime offer on bronze plan",
-            "planId": 1
+            "planId": 1,
+            "expires": {
+                "days": 0,
+                "hours": 10,
+                "minutes": 30,
+                "seconds": 15
+            }
         },
         {
             "id": 2,
             "body": "Lifetime offer on silver plan",
-            "planId": 2
+            "planId": 2,
+            "expires": {
+                "days": 0,
+                "hours": 15,
+                "minutes": 25,
+                "seconds": 10
+            }
         },
         {
             "id": 3,
             "body": "Student discount on silver plan",
-            "planId": 2
+            "planId": 2,
+            "expires": {
+                "days": 2,
+                "hours": 0,
+                "minutes": 0,
+                "seconds": 0
+            }
         }
     ]
 }
