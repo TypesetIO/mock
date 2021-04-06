@@ -19,12 +19,17 @@
     "offers": [
         {
             "id": 1,
-            "body": "Offers on bronze plan",
+            "body": "Lifetime offer on bronze plan",
             "planId": 1
         },
         {
             "id": 2,
-            "body": "Offers on silver plan",
+            "body": "Lifetime offer on silver plan",
+            "planId": 2
+        },
+        {
+            "id": 3,
+            "body": "Student discount on silver plan",
             "planId": 2
         }
     ]
