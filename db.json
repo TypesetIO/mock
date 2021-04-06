@@ -1,0 +1,31 @@
+{
+    "plans": [
+        {
+            "id": 1,
+            "title": "Bronze",
+            "price": "$20"
+        },
+        {
+            "id": 2,
+            "title": "Silver",
+            "price": "$100"
+        },
+        {
+            "id": 3,
+            "title": "Gold",
+            "price": "$200"
+        }
+    ],
+    "offers": [
+        {
+            "id": 1,
+            "body": "Offers on bronze plan",
+            "planId": 1
+        },
+        {
+            "id": 2,
+            "body": "Offers on silver plan",
+            "planId": 2
+        }
+    ]
+}
